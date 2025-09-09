@@ -7,8 +7,8 @@ v1：
 v2：  
 <img width="512" height="512" alt="ComfyUI_temp_vgzyg_00034_" src="https://github.com/user-attachments/assets/6f17b595-54a1-4231-ad1c-e943044d4c53" />  
 v3：  
-<img width="512" height="512" alt="ComfyUI_temp_vgzyg_00036_" src="https://github.com/user-attachments/assets/45266a13-351a-470c-98ee-d89d59c0ea74" />  
-v4：
+<img width="512" height="512" alt="ComfyUI_temp_vgzyg_00036_" src="https://github.com/user-attachments/assets/45266a13-351a-470c-98ee-d89d59c0ea74" />    
+v4：  
 <img width="512" height="512" alt="xsq_v4_e000007_00_20250904235143_190623" src="https://github.com/user-attachments/assets/be6ac4e1-9770-4147-b8c7-5729c61d5b3e" />  
 v5:  
 <img width="512" height="512" alt="xsq_v5_e000010_00_20250905004253_190623" src="https://github.com/user-attachments/assets/1375ef73-9ad7-4c38-b7c4-0b5f851f12f8" />  
